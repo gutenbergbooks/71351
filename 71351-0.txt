@@ -1,14 +1,12 @@
-﻿
 The Project Gutenberg eBook of Murder in the maze
 
-This ebook is for the use of anyone anywhere in the United States and 
-most other parts of the world at no cost and with almost no restrictions 
-whatsoever. You may copy it, give it away or re-use it under the terms 
-of the Project Gutenberg License included with this ebook or online 
-at www.gutenberg.org. If you are not located in the United States, 
-you will have to check the laws of the country where you are located 
-before using this eBook.
-
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
 Title: Murder in the maze
 
@@ -17,12 +15,15 @@ Subtitle: J. J. Connington
 Author: J. J. Connington
 
 Release Date: August 6, 2023 [eBook #71351]
+Last Updated: September 2, 2023
 
 Language: English
 
 Credits: Brian Raiter
 
 *** START OF THE PROJECT GUTENBERG EBOOK MURDER IN THE MAZE ***
+
+
 
 
 Murder in the Maze
@@ -8915,7 +8916,7 @@ Ernest, had felt nothing but boredom and derision. The man’s dullness,
 his cowardice, his selfishness, had all impressed themselves strongly
 on the Squire; and had produced a definite feeling of repulsion and
 contempt. Now he had to readjust his ideas. The dullness must have
-beef merely an exaggeration; the cowardice had been a sham, since the
+been merely an exaggeration; the cowardice had been a sham, since the
 murderer had no reason to fear anything for his own skin; and the
 selfishness—why, that was only a manifestation of callousness without
 which no planned murder could be carried through. Instead of the
